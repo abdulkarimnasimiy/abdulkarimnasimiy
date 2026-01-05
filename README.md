@@ -9,12 +9,6 @@ HTML • CSS • JavaScript
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,scss" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,scss,git,github,figma" />
   </a>
 </p>
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,ps,ai,figma,xd" />
-  </a>
-</p>
-<br/>
