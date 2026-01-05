@@ -17,10 +17,3 @@ I am software developer from Bukhara
   </a>
 </p>
 <br/>
-
-### My github states:
-<div>
-<img height="150"  src="https://github-readme-stats.vercel.app/api?username=abdulkarimnasimiy&show_icons=true&theme=tokyonight">
-<br>
-<img height="150"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkarimnasimiy&layout=compact&lang&theme=tokyonight">
-</div>
