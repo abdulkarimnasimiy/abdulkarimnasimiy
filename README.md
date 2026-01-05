@@ -1,6 +1,7 @@
 ### Hi I'm Abdulkarim Nasimiy
 
-I am software developer from Bukhara
+Frontend Developer focused on building clean and responsive web interfaces
+HTML • CSS • JavaScript
 <br/>
 <br/>
 
@@ -8,12 +9,12 @@ I am software developer from Bukhara
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,scss,react,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,scss" />
   </a>
 </p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,cpp,git,github,ps,ai,figma,xd" />
+    <img src="https://skillicons.dev/icons?i=git,github,ps,ai,figma,xd" />
   </a>
 </p>
 <br/>
