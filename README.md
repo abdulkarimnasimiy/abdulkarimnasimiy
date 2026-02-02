@@ -5,6 +5,6 @@ HTML • CSS • JavaScript
 ## <h2>Skills</h2>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,scss,react,reduxgit,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,scss,react,redux,git,github,figma" />
   </a>
 </p>
