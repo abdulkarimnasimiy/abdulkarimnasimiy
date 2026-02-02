@@ -1,7 +1,17 @@
 # Hi, I'm Abdulkarim Nasimiy 👋
 
 Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.  
-I enjoy turning ideas into real products using modern web technologies and clean UI design.
+I enjoy turning ideas into real products using modern web technologies and thoughtful UI design.
+
+---
+
+## 🌐 Portfolio & CV
+
+🔗 **Portfolio Website**  
+https://nasimiy.netlify.app
+
+📄 **CV / Resume**  
+https://cv-nasimiy.netlify.app
 
 ---
 
@@ -14,40 +24,10 @@ I enjoy turning ideas into real products using modern web technologies and clean
 ### Core Skills
 - HTML5, CSS3 (Flexbox, Grid, Responsive Design)
 - JavaScript (ES6+)
-- React (Hooks, State, Components)
+- React (Hooks, Components, State Management)
 - Redux / Redux Toolkit
-- UI Design with Figma
+- UI Design (Figma)
 - Git & GitHub
-
----
-
-## 🚀 Projects
-
-### ✅ Productive To-Do App
-A modern and responsive to-do application with priority levels, deadlines, progress tracking, theme switcher, and sound effects.
-
-- Technologies: HTML, CSS, JavaScript
-- Features: Responsive UI, localStorage, progress bar, priority system
-- Live demo: https://to-do-nasimiy.netlify.app
-- Source code: https://github.com/abdulkarimnasimiy/to-do-app
-
----
-
-### 🌤 Weather App
-A weather application that shows real-time weather data by city name using an external API.
-
-- Technologies: JavaScript, API, CSS
-- Features: City search, dynamic UI, responsive layout
-- Source code: https://github.com/abdulkarimnasimiy/weather-app
-
----
-
-### 🃏 Card Game
-A simple interactive card game built with JavaScript logic and clean UI.
-
-- Technologies: HTML, CSS, JavaScript
-- Features: Game logic, animations, score tracking
-- Source code: https://github.com/abdulkarimnasimiy/card-game
 
 ---
 
@@ -58,17 +38,19 @@ Field: Information and Communication Technologies
 ---
 
 ## 📫 Contact
+- GitHub: https://github.com/abdulkarimnasimiy
+- Portfolio: https://nasimiy.netlify.app
+- CV: https://cv-nasimiy.netlify.app
 - Telegram: https://t.me/+998773852078
 - Email: nasimdjanovich@gmail.com
-- GitHub: https://github.com/abdulkarimnasimiy
 
 ---
 
 ## 📌 Currently
-- Improving React and Redux skills
-- Building real projects for portfolio
-- Learning best practices in frontend development
+- Building real-world frontend projects
+- Improving React & Redux skills
+- Focusing on clean UI and responsive design
 
 ---
 
-⭐️ Feel free to check out my projects and follow my progress!
+⭐️ Open to junior frontend opportunities and continuous learning.
