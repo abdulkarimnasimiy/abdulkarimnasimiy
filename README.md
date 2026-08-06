@@ -1,8 +1,6 @@
 # Hi, I'm Abdulkarim Nasimiy 👋
 
-Frontend Developer focused on building clean, responsive, and user-friendly web interfaces.  
-I enjoy turning ideas into real products using modern web technologies and thoughtful UI design.
-
+Information Technology student passionate about building modern web applications using React, Django, JavaScript, and Python. I enjoy solving real-world problems through software development and continuously learning new technologies.
 ---
 
 ## 🌐 Portfolio & CV
